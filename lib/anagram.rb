@@ -8,4 +8,3 @@ class Anagram
 
 
 end
-
